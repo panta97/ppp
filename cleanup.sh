@@ -1,1 +1,1 @@
-git clean -xdf -e ".vscode" -n
+git clean -Xdf -e "!.vscode"
