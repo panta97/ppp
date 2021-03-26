@@ -1,0 +1,7 @@
+# ignore files without extension
+*
+!*.*
+!*/
+
+*.dSYM
+.vscode
