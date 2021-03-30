@@ -2,7 +2,9 @@
 *
 !*.*
 !*/
+!Makefile
 
+*.o
 *.dSYM
 .vscode
 .DS_Store
